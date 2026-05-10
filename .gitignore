@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+# Dependency directories
+node_modules/
+/dist/
+/build/
+/.vite/
+/.next/
+/out/
+
+# OS & IDE artefacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Production bundles
+/.pnp.*
+.eslintcache
+
+# Environment files (keep your secrets private)
+.env
+.env.local
+.env.development
+.env.production
+
+# Build artefacts for Vite/React
+/public/build/
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+>>>>>>> 76bb319a6d78e44c6f73e8d984082f43873cea7b
